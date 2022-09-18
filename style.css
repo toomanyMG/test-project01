@@ -7,10 +7,11 @@ body {
 }
 
 :root {
-    --primary-color: rgb(45, 183, 204)
+    --primary-color: rgb(45, 183, 204);
+    --secondary-color: rgb(45, 60, 65);
 }
 
 nav {
     background-color: var(--primary-color);
-    
+    color: var(--secondary-color);
 }
