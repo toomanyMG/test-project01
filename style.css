@@ -2,3 +2,15 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+}
+
+:root {
+    --primary-color: rgb(45, 183, 204)
+}
+
+nav {
+    background-color: var(--primary-color);
+    
+}
